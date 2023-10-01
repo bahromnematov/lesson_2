@@ -43,6 +43,7 @@ class _Ui1State extends State<Ui1> {
                                 fontSize: 32,
                                 fontWeight: FontWeight.bold),
                           ),
+
                           Text(
                             "To learn about The Rich man",
                             style: TextStyle(fontSize: 14),
